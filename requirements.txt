@@ -1,2 +1,2 @@
 streamlit
-textblobgit sgit status
+textblob
